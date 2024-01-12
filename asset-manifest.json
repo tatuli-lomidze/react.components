@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react.components/static/css/main.8c799177.css",
+    "main.js": "/react.components/static/js/main.7c101964.js",
+    "static/js/787.9117964b.chunk.js": "/react.components/static/js/787.9117964b.chunk.js",
+    "static/media/crime.jpg": "/react.components/static/media/crime.fc1416b8453cee1a4c70.jpg",
+    "static/media/metamorphosis.jpg": "/react.components/static/media/metamorphosis.95170f7795da20df3a2d.jpg",
+    "static/media/karenina.jpg": "/react.components/static/media/karenina.62d5750672dc0b8c133b.jpg",
+    "index.html": "/react.components/index.html",
+    "main.8c799177.css.map": "/react.components/static/css/main.8c799177.css.map",
+    "main.7c101964.js.map": "/react.components/static/js/main.7c101964.js.map",
+    "787.9117964b.chunk.js.map": "/react.components/static/js/787.9117964b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c799177.css",
+    "static/js/main.7c101964.js"
+  ]
+}
